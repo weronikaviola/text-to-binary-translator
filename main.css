@@ -1,0 +1,24 @@
+main {
+    margin: 10vh auto;
+    width: 70%;
+    background: #264E36;
+    padding: 5vh;
+    border: 10px double #F3E0BE;
+}
+main > div {
+    text-align: center;
+    color: #F3E0BE;
+}
+main > div > h1 {
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 1px;
+}
+main > div > textarea {
+    width: 80%;
+    height: 20vh;
+    font-size: 18px;
+}
+.btn {
+    font-size: 16px;
+    margin-top: 10px;
+}
